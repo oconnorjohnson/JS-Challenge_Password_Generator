@@ -1,1 +1,1 @@
-# JS-Challenge_Calculator_Tool
+# JS-Challenge_Password_Generator
